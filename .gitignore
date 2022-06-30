@@ -13,6 +13,6 @@ Bible/
 *.xlsx
 *.xls
 *.h5
-*.txt
+# *.txt
 
 *.venv
